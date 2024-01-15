@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Vanilla JS**
 
-- 📫 How to reach me **samoina.w@gmail.com**
-
 - ⚡ Fun fact **I really love sunsets and a good cup of Kenyan chai.**
 
 <h3 align="left">Connect with me:</h3>
