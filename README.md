@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/samoina" target="blank"><img src="https://img.shields.io/twitter/follow/samoina?logo=twitter&style=for-the-badge" alt="samoina" /></a> </p>
 
-- 🔭 I’m currently working on [a Journalling we app made using ReactJS](https://github.com/samoina/my-journal-app)
+- 🔭 I’m currently working on maintaining the website of a non-profit that supports children from underserved communities.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m fascinated by the magic of **modern AI tools**
 
-- 📝 I regularly write articles on [https://samoina.hashnode.dev/](https://samoina.hashnode.dev/)
+- 📝 I occassionally write articles on [https://samoina.hashnode.dev/](https://samoina.hashnode.dev/)
 
-- 💬 Ask me about **Vanilla JS**
+- 💬 Let's chat about **all things Javascript**
 
 - ⚡ Fun fact **I really love sunsets and a good cup of Kenyan chai.**
 
